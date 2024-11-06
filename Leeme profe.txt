@@ -1,0 +1,2 @@
+Hola profe, escribía esto para avisar que por alguna razón no se me hizo commit de lo ultimo que edite, nose si fue error de que el Qt no salvo el archivo antes de cerrarse o que: Arregle las 3 líneas que vi que faltaban desde Visual Studio Code y no debería faltar nada mas, pero hasta estar mañana en el instituto no lo voy a poder ver.
+De todas maneras, debería funcionar bien pero bueno lo anoto porque me parecio muy raro.
